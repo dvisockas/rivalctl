@@ -19,6 +19,7 @@ Installation
 ============
 
     git clone https://github.com/andrepl/rivalctl.git
+    cd rivalctl
     sudo python setup.py install
 
 Usage
